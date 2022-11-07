@@ -1,7 +1,5 @@
 ## FastApi-App
-
-[Completed App](https://github.com/Nditah/hello-fastapi) | 
-[FastApi Official Website](https://fastapi.tiangolo.com//) | 
+link I referred to deploy on heroku: https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/
 
 
 1. Make a Directory for the Project and navigate into it
